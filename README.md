@@ -1,3 +1,3 @@
-<h1>Enrollment Number: IU2141230088</h1><br/>
-<h1>Name: Vinayak Kashyap</h1><br/>
-<h1>Subject: Blockchain</h1>Subject: Blockchain
+<h2>Enrollment Number: IU2141230088</h2><br/>
+<h2>Name: Vinayak Kashyap</h2><br/>
+<h2>Subject: Blockchain</h2>
